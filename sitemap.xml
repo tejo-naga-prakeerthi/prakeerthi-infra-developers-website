@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  IMPORTANT: Replace https://www.prakeerthiinfra.com/ below with your real domain
+  once this site is deployed somewhere permanent (GitHub Pages, Hostinger, GoDaddy, etc).
+  This file currently assumes the site is served as plain HTML pages. Since the live
+  site actually uses single-page hash routing (e.g. #/apartments), search engines will
+  mainly index the homepage below — list the category pages too so Google at least
+  knows they exist, but for best SEO later, consider giving each category/project its
+  own real URL (separate .html files or server routes) instead of a #/ hash route.
+-->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://www.prakeerthiinfra.com/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://www.prakeerthiinfra.com/#/apartments</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.prakeerthiinfra.com/#/residential</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.prakeerthiinfra.com/#/farmlands</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.prakeerthiinfra.com/#/villas</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.prakeerthiinfra.com/#/contact</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+</urlset>

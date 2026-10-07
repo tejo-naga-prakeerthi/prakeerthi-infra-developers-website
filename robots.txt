@@ -1,0 +1,5 @@
+# Replace the domain below with your real domain once this site is deployed.
+User-agent: *
+Allow: /
+
+Sitemap: https://www.prakeerthiinfra.com/sitemap.xml
